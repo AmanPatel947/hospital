@@ -21,9 +21,9 @@ class DatabaseSeeder extends Seeder
 
         $this->call(RoleSeeder::class);
         User::create([
-            'name' =>'tauseed zaman',
-            'email' =>'tauseed@test.com',
-            'password' =>bcrypt('tauseed'),
+            'name' =>'amanPatel zaman',
+            'email' =>'aman@test.com',
+            'password' =>bcrypt('amanPatel'),
             'role_id'=>1,
             'created_at' =>now(),
         ]);

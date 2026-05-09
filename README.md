@@ -29,7 +29,7 @@ Follow these instructions to set up and run the project locally on your Machine.
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/tauseedzaman/hospitalMS.git
+   git clone https://github.com/amanPatelzaman/hospitalMS.git
 ```
  ```bash
    cd hospitalMS
@@ -57,11 +57,11 @@ php artisan storage:link
 ## Admin Credentials
 Admin: 
 ```bash 
-tauseed@test.com
+aman@test.com
 ```
 Password: 
 ```bash
-tauseed
+amanPatel
 ```
 
 ## If you like our project please leave a star ❤
